@@ -40,7 +40,6 @@ The "Engine Room" of this project involved custom M-code to handle complex organ
 I developed a library of custom DAX measures to serve as the dashboard's "Vital Signs."
 
 * **Total Responses:** `COUNTROWS` to keep an exact headcount.
-* **DAX Code:**
     ```
     Total Responses = COUNTROWS('HR Survey Reponses')
     ```
