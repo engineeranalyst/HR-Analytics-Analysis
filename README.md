@@ -50,8 +50,15 @@ I developed a library of custom DAX measures to serve as the dashboard's "Vital 
 * **Completion Percentage:** A sophisticated measure using `VAR` and `DIVIDE` to calculate the ratio of "Complete" vs. "Incomplete" statuses. This prevents "Division by Zero" errors and ensures report stability.
    ```
    Completion Percentage = 
-   VAR CompletedSurveys = CALCULATE(COUNTROWS('HR Survey Reponses'), 'HR Survey Reponses'[Status]="Complete")
-   RETURN DIVIDE(CompletedSurveys, [Total Responses], 0)
+   VAR CompletedSurveys = CALCULATE(
+                              COUNTROWS('HR Survey Reponses'),
+                              'HR Survey Reponses'[Status]="Complete"
+                          )
+   RETURN DIVIDE(
+              CompletedSurveys,
+              [Total Responses],
+              0
+          )
    ```
 ---
 
