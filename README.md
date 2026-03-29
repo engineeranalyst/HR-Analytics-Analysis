@@ -1,3 +1,5 @@
+![HR Analytics Dashboard (My Version)](https://github.com/user-attachments/assets/320b1d0c-12b3-421e-9c63-bd233b30b6b7)
+
 ## 📋 I. Project Overview
 This project transformed a raw, fragmented HR survey dataset into a high-performance, interactive **Diagnostic Dashboard**. The goal was to move beyond simple "Ad Hoc" data requests and provide HR leadership with a persistent "Tactical HUD" to monitor organizational health.
 
