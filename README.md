@@ -45,7 +45,7 @@ I developed a library of custom DAX measures to serve as the dashboard's "Vital 
     Total Responses = COUNTROWS('HR Survey Reponses')
     ```
     
-* **Average Rating:** A clean `AVERAGE` function (optimized after pre-cleaning the 0/null values at the source).
+* **Average Rating:** Uses the `AVERAGE` function to calculate the average survey response score (optimized after pre-cleaning the 0/null values at the source).
     ```
     Average Rating = AVERAGE('HR Survey Reponses'[Response])
     ```
