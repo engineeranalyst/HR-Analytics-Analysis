@@ -22,7 +22,7 @@ Before the data could be "deployed" to the dashboard, it underwent a rigorous cl
 The "Engine Room" of this project involved custom M-code to handle complex organizational hierarchies that the standard UI couldn't process alone.
 
 * **Job Level Classification:** I wrote a custom `if...then...else` statement in the Power Query Advanced Editor. This code scanned four separate binary columns (Director, Manager, Supervisor, Staff) to create a single, unified **Job Level** column.
-* **Code Snippet:**
+* **M Code:**
     ```
     Table.AddColumn(#"Added Response Category", "Job Level", each 
        if [Director] = 1 then "Director" 
@@ -40,6 +40,11 @@ The "Engine Room" of this project involved custom M-code to handle complex organ
 I developed a library of custom DAX measures to serve as the dashboard's "Vital Signs."
 
 * **Total Responses:** `COUNTROWS` to keep an exact headcount.
+* **DAX Code:**
+    ```
+    Total Responses = COUNTROWS('HR Survey Reponses')
+    ```
+    
 * **Average Rating:** A clean `AVERAGE` function (optimized after pre-cleaning the 0/null values at the source).
 * **Completion Percentage:** A sophisticated measure using `VAR` and `DIVIDE` to calculate the ratio of "Complete" vs. "Incomplete" statuses. This prevents "Division by Zero" errors and ensures report stability.
 
