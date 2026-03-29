@@ -1,0 +1,10 @@
+Field,Description
+Response ID,"Unique, sequential ID representing a response to a survey question"
+Status,Identifies whether a response was complete or incomplete
+Department,"Survey respondent's job department (Human Resources, Public Works, etc.)"
+Director,Binary (0/1) field indicating if the respondent is in a Director role
+Manager,Binary (0/1) field indicating if the respondent is in a Manager role
+Supervisor,Binary (0/1) field indicating if the respondent is in a Supervisor role
+Staff,Binary (0/1) field indicating if the respondent is in a Staff role
+Question,Full survey question text
+Response,"Survey response value (1, 2, 3, 4, 5)"
