@@ -65,7 +65,7 @@ I developed a library of custom DAX measures to serve as the dashboard's "Vital 
 ## 🎨 V. Report Design & UI/UX (The Visual HUD)
 The dashboard was designed with a "KPI-First" hierarchy, inspired by professional grid systems and clean aesthetics.
 
-* **Top-Level KPIs:** Placed critical numbers (Total Responses, Average Rating) at the very top for immediate "Battlefield Recon."
+* **Top-Level KPIs:** Placed critical numbers (Total Responses, Average Rating, and Completion Percentage) at the very top for immediate "Battlefield Recon."
 * **Departmental Sentiment:** Used a **Stacked Bar Chart** to show the 3-way split of Positive/Neutral/Negative across departments.
 * **Question-Level Intelligence:** A specialized bar chart to pinpoint exactly which survey questions are driving low morale.
 * **Slicer Sidebar:** All filters were moved to the left side to follow natural eye-movement patterns, ensuring the user can quickly toggle between different job levels and departments.
