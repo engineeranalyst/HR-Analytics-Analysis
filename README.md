@@ -64,7 +64,7 @@ I developed a library of custom DAX measures to serve as the dashboard's "Vital 
    ```
 ---
 
-## 🎨 Report Design & UI/UX (The Visual HUD)
+## 🎨 Report Design & UI/UX
 The dashboard was designed with a "KPI-First" hierarchy, inspired by professional grid systems and clean aesthetics.
 
 * **Top-Level KPIs:** Placed critical numbers (Total Responses, Average Rating, and Completion Percentage) at the very top for immediate "Battlefield Recon."
