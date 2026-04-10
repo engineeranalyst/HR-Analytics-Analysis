@@ -5,7 +5,7 @@
 ## 📋 Executive Summary
 I performed a comprehensive sentiment analysis of a dataset containing HR data.
 
-Fot this project, transformed a raw, fragmented HR survey dataset into a high-performance, interactive **Diagnostic Dashboard**. 
+Fot this project, I transformed a raw, fragmented HR survey dataset into a high-performance, interactive **Diagnostic Dashboard**. 
 
 The goal was to move beyond simple "Ad Hoc" data requests and provide HR leadership with a persistent "Tactical HUD" to monitor organizational health.
 
