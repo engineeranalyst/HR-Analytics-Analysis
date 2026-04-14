@@ -1,4 +1,4 @@
-# HR Employee Sentiment Analysis
+# HR: A Case Study on Sentiment Analysis
 
 ![HR Analytics Dashboard (My Version)](https://github.com/user-attachments/assets/c5c71c60-e6f7-4b59-b1a5-c80114cd4624)
 
