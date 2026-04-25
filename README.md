@@ -69,7 +69,7 @@ The dashboard was designed with a "KPI-First" hierarchy, inspired by professiona
 * **Slicer Sidebar:** All filters were moved to the left side to follow natural eye-movement patterns, ensuring the user can quickly toggle between different job levels and departments.
 
 ## 📊 Key Insights
-*The analysis reveals clear patterns in how organizational culture is perceived across different functional areas:
+The analysis reveals clear patterns in how organizational culture is perceived across different functional areas:
 
 * **Sentiment Polarization:** While the overall organizational average is strong, sentiment is highly polarized. A significant portion of the workforce falls into the "Neutral" (3) bucket, indicating a "wait-and-see" approach to engagement.
 * **The "Question Gap":** Analysis of the "Rating by Question" chart identified that questions related to specific operational expectations consistently yield lower scores compared to questions regarding team collaboration and support.
@@ -77,7 +77,7 @@ The dashboard was designed with a "KPI-First" hierarchy, inspired by professiona
 * **High Completion Integrity:** With a **99% completion rate**, the survey data provides a highly reliable and representative baseline for organizational strategy, minimizing the risk of "selection bias" in our findings.
 
 ## 💡 Recommendations
-*Based on the diagnostic patterns identified, I recommend the following tactical interventions to improve employee sentiment:
+Based on the diagnostic patterns identified, I recommend the following tactical interventions to improve employee sentiment:
 
 1. **Targeted Management Coaching:** Since sentiment variance is linked to specific departments, I recommend deploying specialized engagement workshops for managers in lower-performing areas. Focus these sessions on aligning team objectives with individual contributions.
 2. **"Quick Wins" for Low-Performing Questions:** Address the specific questions identified in the "Rating by Question" chart. By focusing on areas where scores are consistently low, the organization can target "lowest-hanging fruit" issues to achieve an immediate lift in sentiment scores.
