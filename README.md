@@ -85,7 +85,7 @@ Based on the diagnostic patterns identified, I recommend the following tactical 
 4. **Iterative Feedback Loops:** Utilize this dashboard as a persistent "Tactical HUD." By refreshing this data regularly, HR leadership can monitor the *velocity* of sentiment change following these interventions, effectively moving from "Reactive" to "Proactive" personnel management.
 
 ## 🚀 How to Run This Project
-1.  Download `HR Analytics Dashboard.pbix`
+1.  Download the `HR Analytics Dashboard.pbix` file.
 2.  Import the `HR Employee Survey Responses (cleaned).csv` file.
 3.  Open the Queries and Connections Panel and put the full file path name of the CSV file in the Source.
 4.  Refresh the Preview of the Data Source.
