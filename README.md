@@ -83,3 +83,9 @@ Based on the diagnostic patterns identified, I recommend the following tactical 
 2. **"Quick Wins" for Low-Performing Questions:** Address the specific questions identified in the "Rating by Question" chart. By focusing on areas where scores are consistently low, the organization can target "lowest-hanging fruit" issues to achieve an immediate lift in sentiment scores.
 3. **Convert the "Neutrals":** With a large block of employees in the "Neutral" (Score 3) category, the organization has a significant opportunity. I recommend an internal communication campaign focused on the "Employee Value Proposition" (EVP) to help convert these neutral observers into active, positive contributors.
 4. **Iterative Feedback Loops:** Utilize this dashboard as a persistent "Tactical HUD." By refreshing this data regularly, HR leadership can monitor the *velocity* of sentiment change following these interventions, effectively moving from "Reactive" to "Proactive" personnel management.
+
+## 🚀 How to Run This Project
+1.  Download `HR Analytics Dashboard.xlsx`
+2.  Import the CSV files for this project.
+3.  Open the Queries and Connections Panel and put the full file path names of the CSV files in the Source.
+4.  Refresh the Preview of the Data Source.
