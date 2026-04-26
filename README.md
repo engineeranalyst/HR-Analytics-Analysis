@@ -86,6 +86,6 @@ Based on the diagnostic patterns identified, I recommend the following tactical 
 
 ## 🚀 How to Run This Project
 1.  Download the `HR Analytics Dashboard.pbix` file.
-2.  Import the `HR Employee Survey Responses (cleaned).csv` file.
-3.  Open the Transform Data Panel and put the full file path name of the CSV file in the Source.
+2.  Download the `HR Employee Survey Responses (cleaned).csv` file.
+3.  Open the Power Query Editor and place the full file path name of the CSV file in the Source.
 4.  Refresh the Preview of the Data Source.
